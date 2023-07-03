@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work
+permalink: /work/
 ---
 
 <p class="message">
