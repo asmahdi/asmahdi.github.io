@@ -7,4 +7,4 @@ title: Work
 
 ### Cyclone Hamoon Animation
 Using Google Earth Engine and precipitation data of 3 days the animated thumbnail is created. 
-Link : https://code.earthengine.google.com/435532e3ff14bc4dc38ba7eced5373af
+{% GEE Link url= "https://code.earthengine.google.com/435532e3ff14bc4dc38ba7eced5373af" %}
