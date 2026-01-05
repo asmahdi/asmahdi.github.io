@@ -45,6 +45,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Install dependencies
+        run: npm install
+        working-directory: mysite
+        
         # Generate Tailwind CSS
       - name: Build Tailwind CSS
         run: npx @tailwindcss/cli -i ./assets/css/main.css -o ./assets/css/tailwind.css --minify
