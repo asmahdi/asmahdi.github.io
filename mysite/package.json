@@ -1,0 +1,23 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./assets/css/tailwind.css --watch",
+    "serve": "bundle exec jekyll serve --livereload",
+    "dev": "concurrently \"npm run watch\" \"npm run serve\"",
+    "build": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./assets/css/tailwind.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "concurrently": "^9.2.1"
+  }
+}
