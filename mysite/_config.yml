@@ -33,10 +33,10 @@ menu:
     link: /
   - name: Research
     link: /research
-  - name: Programming
-    link: /programming
-  - name: Art
-    link: /art
+  - name: Tools
+    link: /tools
+  - name: Blog
+    link: /blog
 
 # Build settings
 # theme: minima

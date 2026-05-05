@@ -16,7 +16,7 @@
   <body>
     <header>
 
-      <nav class="bg-lime-50 border-b-2 border-lime-700/50 shadow-sm">
+      <nav class="bg-white border-b border-gray-200">
         <div class="max-w-5xl mx-auto px-16">
           <div class="flex h-16 items-center justify-baseline">
 
@@ -25,7 +25,7 @@
               {% assign current = page.url | remove: '.html' %}
               {% for item in site.menu %}
 
-                <div class="hover:text-lime-600 {% if item.link == current  %}text-lime-600 font-bold {% else %} text-lime-800 opacity-50 {% endif %}">
+                <div class="hover:text-lime-600 {% if item.link == current  %}text-lime-600 {% else %} text-neutral-400 {% endif %}">
                   <a href="{{ item.link }}">
                     {{ item.name }}
                   </a>
@@ -42,9 +42,9 @@
     </header>
 
     <main>
-      <div class="prose max-w-5xl mx-auto px-16 py-10 ">
+      
         {{ content }}
-      </div>
+      
       
     </main>
 

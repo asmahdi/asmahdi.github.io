@@ -12,91 +12,52 @@ layout: default
      class="mx-auto w-3xs">
   </div>
   <div class="col-span-2 my-6 text-md  ">
-    <h1> Abu Sabiq Mahdi</h1>
-    <p> 
-    I am pursuing a master’s degree in geography, with a research focus on spatial data computation and analysis. I work with MATLAB, ArcGIS, Python, JavaScript and other programming languages as needed in his workflow. I also have experience in visualization and computer graphics.
-    </p>
-    <p> 
-    My current research involves developing geospatial analysis methods for road network elevation and a dashboard for real-time flood inundation mapping. I'm also passionate about contributing to the development of open-source geospatial tools. 
-    </p>
+    <div class="text-5xl font-black text-lime-950"> Abu Sabiq Mahdi</div>
+    <div class="my-4">
+      <div class="text-2xl font-bold text-lime-900">Graduate Research Assistant </div> 
+      <div class="text-sm text-lime-900">Kansas Applied Remote Sensing Program <a class="text-lime-700 font-bold" href="https://kars.ku.edu">KARS</a></div>
+      <div class="text-sm text-lime-900">Kansas Biological Survey and Center for Ecological Research <a class="text-lime-700 font-bold" href="https://biosurvey.ku.edu/">KBS-CER</a></div>
+    </div>
+    <div class="text-sm font-light italic my-6"> 
+    I am pursuing master’s in geography, with a research focus on spatial data computation, analysis and visualization. I am particularly interested in surface water mapping, extreme weather and environmental modeling.
+    My current research involves developing automated computational method for road inundation mapping and a study of historical wind trend in kansas. This research is part of the ARISE project funded by National Science Foundation under Kansas NSF-EPSCoR.
+    </div>
     
   </div>
 </div>
 
-## Academic Background
-MS in Geography - The University of Kansas, (2024 - present) <br/>
-B.Sc. in Geography and Environment (2nd Major in Computer Science) - Shahjalal University of Science and Technology, 2019 <br/>
+---
 
+<div class="text-xl my-1 font-bold text-lime-900">
+  Education
+</div >
 
-## Employment History
-
-**Technical Artist (Remote)** (2022 - 2023)<br/>
-*Another Pixel, France* <br/> 
-- Programming shaders for Unity 3D Engine
-- Writing custom HLSL code for shader customization
-- Rendering pipeline customization 
+<div class="text-sm text-lime-900">
+  MS in Geography - The University of Kansas, (2024 - present) <br>
+  B.Sc. in Geography and Environment (2nd Major in Computer Science) - Shahjalal University of Science and Technology, 2018 
+</div>
 
 <br>
 
-**DevOps Engineer (Part-time)** (2022 - 2024)<br/>
-*Musketeers Idea Ltd., Dhaka, Bangladesh* <br/>
-- Setting up vps servers (AWS) and S3 storage systems
-- Managing the deployments and atabases 
-- Automation of build and backup system
+<div class="text-xl my-1 font-bold text-lime-900">
+  Interest
+</div >
 
-<br>
-***2019 - Present***
-_Managing Director, Founder_ <br/>
-Olik Ltd., Sylhet, Bangladesh <br/>
-- Producer - 3d animation productions
-- Team Lead - LunerVR
-- Lead Developer - Immersia
-- Visual Effects Supervisor - Shikkho TVC
-- Visual Effects Supervisor - Mediker Safe - life TVC 
-- Visual Effects Supervisor - Foodpanda TVC
+<div class="text-sm text-lime-900">
+<ul>
+  <li>
+    Geospatial Computation and visualization
+  </li>
+  <li>
+    GeoAI
+  </li>
+  <li>
+    Environmental Modeling
+  </li>
+  <li>
+    Environemental Psychology
+  </li>
+</ul>
+</div>
 
-
-## Achievements
-
-- Global Winner at NASA Space Apps Challenge 2018 in Best Use of Data Category
-- ICT Innovation Fund, for “Immersia - How virtual reality can help students to experience lab experiments”, ICT Division, 2019
-
-
-
-## Projects
-- ***Immersia 2020*** <br/>
-A virtual reality learning application that helps to experience the lab experiments of school online and virtually, funded by ICT Division, Bangladesh
-
-- ***Analysis of the relationship between flood pattern and drainage system using remote sensing and GIS - A case study of Naogaon district. 2019*** <br/>
-B.Sc. Final Project – Analysis of 10 years of satellite DEM data (SRTM) 
-
-- ***Lunar VR - NASA Space Apps Challenge	2018***
-A virtual reality experience on the lunar surface and around the moon.
-
-- ***SUST VR	2018***
-A final year project for second major in Computer Science and Engineering on virtual reality experience of the university area.
-
-- ***Spatial Variation of Surface Water Salinity and Physicochemical Parameter of River Water through Sundarbans 2018***
-Measured water quality parameters (DO, pH, turbidity, salinity, TDS, etc.) with hand-held digital instruments.
-
-- ***Land use and Land Cover Change Detection Using Remote Sensing Technique: A    Case Study of Naogaon District, Bangladesh. 2018***
-Used ArcGIS and Erdas Imagine to detect land use and land cover change       
-
-<br/>
-
-#### Software
-- ArcGIS
-- QGIS
-- Adobe Photoshop
-- Adobe Illustrator
-- Unity 3D
-- Houdini
-- Blender
-- Microsoft Office
-
-#### Programming Language
--	Python
--	C++, C#
--	Java
--	JavaScript
--	HLSL/Shaderlab
+---
